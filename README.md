@@ -1,5 +1,4 @@
 # LeetCode Solution
-`This is all about my LeetCode Solution.` <br>
-**Mentored By**: `Er Adhbhut Prakash Dwedi`, HBTU Kanpur. <br>
-[`Shiv Sharma`](https://axshivam.codes)
+`This is all about my LeetCode Submissions during the InterView Preparation.` <br>
+**Mentored By**: [Raj Vikramaditya](https://www.linkedin.com/in/rajarvp/) <br>
 
